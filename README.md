@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://github.com/openfolie/procrastin8">
-    <img src="https://media.discordapp.net/attachments/1367149397074509896/1384210829225885816/procrastin8.png?ex=68519a4b&is=685048cb&hm=12467af2b05e676a8e6e544dbbc1759bc803b203566155b0eaa65814af522117&=&format=webp&quality=lossless&width=2566&height=1150" alt="Logo" >
+    <img src="https://github.com/user-attachments/assets/96401a51-762c-450f-bf4b-1b0f63af0fe3" alt="Logo" >
   </a>
+
+  
 
 <h1 align="center">procrastin8</h3>
 </div>
